@@ -2,7 +2,7 @@
 > This is an OS for Discord, which is rounded with animations, Apple emojis, and many more!
 > You may ask why we call it OS? Its not an Operating System? You are gonna see why we mean it, OS, when its released
 > We have 2 ways of installing AetherOS and 2 versions. The 1st version is just the normal one, but the second is with horizontal servers, which means the servers are above
--
+
 ## INSTALLING AetherOS
 **Installing Vencord**
 
