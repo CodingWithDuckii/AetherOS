@@ -1,11 +1,13 @@
-HI
+# Welcome to AetherOS!
+> This is an OS for Discord, which is rounded with animations, Apple emojis, and many more!
+> You may ask why we call it OS? Its not an Operating System? You are gonna see why we mean it, OS, when its released
+> We have 2 ways of installing AetherOS and 2 versions. The 1st version is just the normal one, but the second is with horizontal servers, which means the servers are above
 -
-# INSTALLING AetherOS
-
+## INSTALLING AetherOS
 **Installing Vencord**
 
 1. Go to [vencord.dev](https://vencord.dev/)
-2. Download and install **Vencord**. After installing, open the file.
+2. Download and install **Vencord**. After you install it, please open the file.
 3. Close Discord:
       - Click the Discord icon in the taskbar → **Right-click → Quit Discord**  
       - If you don’t see it, check hidden icons.  
@@ -16,7 +18,7 @@ HI
 7. After installation, reopen Discord.
 8. Head to **Settings → Vencord**. If you can see a new **Vencord** tab, it means success!
 
-> ⚠️ **Troubleshooting:** If the Vencord tab does not appear, try restarting Discord or look for tutorials online. (Tip: NTTS tutorials recommended.)
+> ⚠️ **Troubleshooting:** If the Vencord tab does not appear, try restarting Discord or looking for tutorials online. (Tip: NTTS tutorials recommended.)
 
 ---
 
@@ -40,11 +42,11 @@ If neither does, get in touch with the owner: **`code_itsduckydev`**.
 2. Copy **all the code** inside that file.  
 3. Come back to Discord **Settings → Vencord → Themes → Edit QuickCSS**.  
 4. Paste it into the editor and close The Editor.  
-5. If your Discord suddenly Changes — **Welcome to AetherOS!** 🎉
+5. If your Discord suddenly changes — **Welcome to AetherOS!** 🎉
 
 ---
 
-IF YOU WANT A YOUTUBE TUTORIAL PLEASE CLICK HERE --> [YT-LINK-HERE]
+IF YOU WANT A YOUTUBE TUTORIAL, PLEASE CLICK HERE --> [YT-LINK-HERE]
 
 ---
 
